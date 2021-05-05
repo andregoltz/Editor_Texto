@@ -2,7 +2,7 @@
 
 Editor de Texto criado utilizando a Windows Forms e a linguagem C#, desenvolvido conhecimentos nos componentes do Windows Forms, lógica e sintaxe da linguagem. Todas as aplicações funcionando:
 
--Criar novo Arquivo
+-Criar novo Arquivo<br>
 -Abrir
 -Salvar
 -Copiar
